@@ -1,10 +1,11 @@
-panadas
+pandas
 numpy
 seaborn
 scikit-learn
 catboost
 xgboost
+flask
 ipykernel
 dill
--e .
+#-e .
 
